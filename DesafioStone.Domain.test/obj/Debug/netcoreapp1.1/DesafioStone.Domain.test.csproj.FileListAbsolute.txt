@@ -1,0 +1,16 @@
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\bin\Debug\netcoreapp1.1\DesafioStone.Domain.test.deps.json
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\bin\Debug\netcoreapp1.1\DesafioStone.Domain.test.runtimeconfig.json
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\bin\Debug\netcoreapp1.1\DesafioStone.Domain.test.runtimeconfig.dev.json
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\obj\Debug\netcoreapp1.1\DesafioStone.Domain.test.csprojResolveAssemblyReference.cache
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\obj\Debug\netcoreapp1.1\DesafioStone.Domain.test.AssemblyInfo.cs
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\bin\Debug\netcoreapp1.1\DesafioStone.Domain.test.dll
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\bin\Debug\netcoreapp1.1\DesafioStone.Domain.test.pdb
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\bin\Debug\netcoreapp1.1\DesafioStone.Domain.dll
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\bin\Debug\netcoreapp1.1\MongoDB.Bson.dll
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\bin\Debug\netcoreapp1.1\DesafioStone.Domain.pdb
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\bin\Debug\netcoreapp1.1\MongoDB.Bson.xml
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\obj\Debug\netcoreapp1.1\DesafioStone.Domain.test.dll
+C:\Users\gaspa\documents\visual studio 2017\Projects\DesafioStone\DesafioStone.Domain.test\obj\Debug\netcoreapp1.1\DesafioStone.Domain.test.pdb
