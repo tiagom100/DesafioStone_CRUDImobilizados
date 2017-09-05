@@ -1,0 +1,5 @@
+DesafioStone
+
+CRUD e Controle de Imobilizados em WEB API 2.0
+
+Persistência de dados em mongoDB; MVC Desenvolvido em .NET. SimpleInjector Teste com PostMan e xUnit Seguindo as boas práticas do SOLID Padrão de projeto com injeção de dependência e DDD.
