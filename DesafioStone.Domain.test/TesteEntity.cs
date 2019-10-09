@@ -23,6 +23,8 @@ namespace DesafioStone.Domain.test
             Edificio edificio = new Edificio("Edifio teste", "Rua teste do testei", "tes", "tesil");
 
             Assert.Equal(edificio.Ativo, true);
+            Assert.Equal(edificio.Ativo, true);
+            Assert.Equal(edificio.Ativo, true); Assert.Equal(edificio.Ativo, true); Assert.Equal(edificio.Ativo, true);
         }
 
         [Fact]
