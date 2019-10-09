@@ -47,7 +47,6 @@ namespace DesafioStone.Domain.test
         {
             Nivel nivel = new Nivel("Nivel", "Nivel de teste");
 
-            //nivel.SetEdifioId("1261das9d81");
             Assert.Null(nivel.EdificioId);
         }
 
